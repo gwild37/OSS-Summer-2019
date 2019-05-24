@@ -1,4 +1,4 @@
 # Name: Gabriel Wild
-GitHub handle: gwild37
-Slack handle: n/a
-email: wildg@rpi.edu
+GitHub handle: gwild37\n
+Slack handle: n/a\n
+email: wildg@rpi.edu\n
