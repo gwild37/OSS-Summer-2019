@@ -1,4 +1,4 @@
-*# lab01.md
+# lab01.md
 ## Install Tree
 ![tree](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/tree.PNG)
 ## Regex Practice Problems
