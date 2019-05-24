@@ -9,3 +9,8 @@
 ![5](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/5.PNG)
 ![6](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/6.PNG)
 ![7](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/7.PNG)
+## Regex Crosswords
+![help](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/help.PNG)
+![1984](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/1984.PNG)
+![oooo](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/oooo.PNG)
+![naughty](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/naughty.PNG)
