@@ -15,7 +15,7 @@
 ![oooo](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/oooo.PNG)
 ![naughty](https://github.com/gwild37/OSS-Summer-2019/blob/master/Resources/naughty.PNG)
 ## Blockly
-'''javascript
+```javascript
 while (notDone()) {
   if (isPathLeft()) {
     turnLeft();
@@ -33,4 +33,4 @@ while (notDone()) {
     }
   }
 }
-'''
+```
